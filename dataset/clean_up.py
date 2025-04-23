@@ -28,4 +28,4 @@ df = df.dropna(subset=["mkt_val_tot", "lat", "lon"])
 
 # STEP 7: Export cleaned version
 df.to_csv("cleaned_county_parcels.csv", index=False)
-print("✅ Cleaned file exported as cleaned_county_parcels.csv")
+print("Cleaned file exported as cleaned_county_parcels.csv")
