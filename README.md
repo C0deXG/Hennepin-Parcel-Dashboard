@@ -35,9 +35,12 @@ Or view locally using Flask:
 
 ```bash
 pip install flask
-python app.py# Hennepin-Parcel-Dashboard
-# Hennepin-Parcel-Dashboard
-# Hennepin-Parcel-Dashboard
-# Hennepin-Parcel-Dashboard
-# Hennepin-Parcel-Dashboard
-# Hennepin-Parcel-Dashboard
+python app.py
+```
+
+
+
+⚠️ **Data Usage Notice**
+
+The dataset utilized in this project is sourced from the [Hennepin County GIS Open Data Portal](https://gis-hennepin.hub.arcgis.com/datasets/7975aabf6e1e42998a40a4b085ffefdf_1/explore). It is provided free of charge and without the need for a license. However, it is not explicitly licensed under the MIT License. Users are encouraged to review the terms of use on the [Hennepin County GIS Open Data Portal](https://gis-hennepin.hub.arcgis.com/pages/open-data) before utilizing the data.
+
